@@ -1,7 +1,7 @@
 //Write a function that given the input string name, returns the greeting statement Hello, 
 //<name> how are you doing today?
 
-//Self Trial
+
 let inputValue = prompt("Pls Enter your name");
 let greetings = `Hello ${inputValue} how are you doing today?`;
 console.log(greetings);
