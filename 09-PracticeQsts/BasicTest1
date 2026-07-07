@@ -1,0 +1,59 @@
+// 1. **Difference between `let` and `const`?**
+//    **Answer:** `let` can be reassigned but cannot be redeclared. `const` cannot be reassigned or redeclared.
+
+// 2. **Which variable can be redeclared?**
+//    **Answer:** `var`
+
+// 3. **Which scope does `var` have?**
+//    **Answer:** Function scope
+
+// 4. **Which keyword is preferred today?**
+//    **Answer:** `let` and `const`
+
+// 5. **Can `const` objects be modified?**
+//    **Answer:** Yes, the object's properties can be modified, but the object reference cannot be changed.
+
+// 6. **Is Array primitive?**
+//    **Answer:** No
+
+// 7. **Is `null` primitive?**
+//    **Answer:** Yes
+
+// 8. **Data type of `true`?**
+//    **Answer:** Boolean
+
+// 9. **Data type of `undefined`?**
+//    **Answer:** Undefined
+
+// 10. **Data type of `123n`?**
+//     **Answer:** BigInt
+
+// 11. **Difference between `==` and `===`?**
+//     **Answer:** `==` compares values after type conversion, while `===` compares both value and data type without type conversion.
+
+// 12. **Output of `10 % 4`?**
+//     **Answer:** `2`
+
+// 13. **Output of `2 ** 3`?**
+//     **Answer:** `8`
+
+// 14. **Output of `5 == "5"`?**
+//     **Answer:** `true`
+
+// 15. **Output of `5 === "5"`?**
+//     **Answer:** `false`
+
+// 16. **Output of `Number("100")`?**
+//     **Answer:** `100`
+
+// 17. **Output of `String(25)`?**
+//     **Answer:** `"25"`
+
+// 18. **Output of `Boolean(0)`?**
+//     **Answer:** `false`
+
+// 19. **Output of `parseInt("50px")`?**
+//     **Answer:** `50`
+
+// 20. **Output of `parseFloat("12.8kg")`?**
+//     **Answer:** `12.8`
