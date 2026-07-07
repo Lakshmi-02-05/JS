@@ -57,3 +57,42 @@
 
 // 20. **Output of `parseFloat("12.8kg")`?**
 //     **Answer:** `12.8`
+
+// 1. Age Calculator
+// let birthYear = 2005;
+// let age = 2026 - birthYear;
+
+// console.log("You are", age, "years old.");
+// 2. BMI Calculator
+// let weight = 60;
+// let height = 1.65;
+
+// let BMI = weight / (height * height);
+
+// console.log(BMI.toFixed(2));
+
+// Output:
+
+// 22.04
+// 3. Celsius to Fahrenheit
+// let C = 30;
+
+// let F = (C * 9/5) + 32;
+
+// console.log(F);
+
+// Output:
+
+// 86
+// 4. Even/Odd
+// let x = 15;
+
+// if (x % 2 == 0) {
+//     console.log(x, "is Even");
+// } else {
+//     console.log(x, "is Odd");
+// }
+
+// Output:
+
+// 15 is Odd
